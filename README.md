@@ -1,0 +1,1 @@
+This is a collection of files that can be utilized as a boilerplate
